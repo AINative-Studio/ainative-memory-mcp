@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.AINative-Studio/ainative-memory-mcp",
+  "description": "Cloud-persistent, semantic-search memory MCP — drop-in for server-memory, backed by ZeroDB.",
+  "repository": {
+    "url": "https://github.com/AINative-Studio/ainative-memory-mcp",
+    "source": "github"
+  },
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "ainative-memory-mcp",
+      "version": "1.0.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

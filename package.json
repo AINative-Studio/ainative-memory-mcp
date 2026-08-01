@@ -1,6 +1,6 @@
 {
   "name": "ainative-memory-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enhanced MCP server-memory with ZeroDB cloud persistence and semantic vector search. Drop-in replacement for @modelcontextprotocol/server-memory that stores your knowledge graph in the cloud instead of local JSONL files.",
   "type": "module",
   "main": "index.js",
@@ -89,5 +89,6 @@
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=9.0.0"
-  }
+  },
+  "mcpName": "io.github.AINative-Studio/ainative-memory-mcp"
 }
